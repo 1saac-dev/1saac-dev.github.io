@@ -13,7 +13,7 @@ typewriter
   .pauseFor(50)
   // .typeString('My name is Isaac, and I am a developer.')
   .deleteAll(1)
-  .typeString('I worked for <strong>[Duponta]</strong> as a developer, and I code, write, play chess and shoot some photos on weekends.')
+  .typeString('I worked for <strong>[Duponta]</strong> as a developer, and I code, write and play chess')
   .pauseFor(300)
   .deleteAll(1)
   .typeString('Find me online: <br />')
